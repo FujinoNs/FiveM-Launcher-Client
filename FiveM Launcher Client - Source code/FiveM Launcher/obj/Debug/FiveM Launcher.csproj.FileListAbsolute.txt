@@ -1,0 +1,13 @@
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\bin\Debug\FiveM Launcher.exe
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\bin\Debug\FiveM Launcher.pdb
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\App.g.cs
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher_MarkupCompile.cache
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher_MarkupCompile.lref
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\MainWindow.baml
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.g.resources
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM_Launcher.Properties.Resources.resources
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.csproj.GenerateResource.cache
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.exe
+C:\Users\Fujino Ns\source\repos\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.pdb
